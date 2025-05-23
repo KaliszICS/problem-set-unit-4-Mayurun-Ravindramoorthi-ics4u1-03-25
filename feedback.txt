@@ -1,0 +1,8 @@
+K(30%): 90
+I(30%): 88
+C(10%): 40
+A(30%): 90
+84.4 of 90 - 75.96
+no javadocs!
+shuffle is spelled wrong.
+No DiscardPile class.
